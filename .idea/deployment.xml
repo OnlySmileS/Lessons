@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" persistUploadOnCheckin="false">
+  <component name="PublishConfigData" uploadOnCheckin="51ab0ce3-27a8-4211-8968-b11e52317618">
     <serverData>
-      <paths name="BotvaWiki">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
       <paths name="Lessons">
         <serverdata>
           <mappings>
@@ -23,6 +16,13 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="pivanov">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="wiki.botva">
         <serverdata>
           <mappings>
@@ -31,5 +31,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="pivanov" />
   </component>
 </project>
