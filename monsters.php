@@ -1048,7 +1048,7 @@ $CONFIG['M_AVATARA_PATH_MONSTERS'] = array(
             'reward'     => array(
                 array('type' => 'money', 'id' => TYPE_FISH, 'amount' => 10000),
                 array('type' => 'special', 'id' => 'dark_gold', 'amount' => 50),
-                array('type' => 'money', 'id' => TYPE_CRYSTAL, 'amount' => 100)
+                array('type' => 'money', 'id' => TYPE_CRYSTAL, 'amount' => 100)//gj
             )
         ),
     array(
