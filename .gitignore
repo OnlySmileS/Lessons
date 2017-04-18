@@ -1,2 +1,5 @@
 .idea/
 .gitignore
+.idea/encodings.xml
+.idea/webServers.xml
+.idea/workspace.xml

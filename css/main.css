@@ -2,7 +2,6 @@ body {
     margin: 0;
     padding: 0;
 }
-
 .header-menu {
     width: auto;
     height: auto;
@@ -14,13 +13,11 @@ body {
     left: 0;
     height: 50px;
 }
-
 .header-menu__logo {
     width: 250px;
     height: 50px;
     position: relative;
 }
-
 .header-menu__logo-text {
     width: 190px;
     height: 50px;
@@ -29,7 +26,6 @@ body {
     top: 0;
     padding-left: 10px;
 }
-
 .header-menu__logo--text_big {
     display: inline-block;
     font-size: 20px;
@@ -37,13 +33,10 @@ body {
     color:  #444444;
     font-weight: 700;
 }
-
 .header-menu__logo--text_small {
     display: inline-block;
     font-family: Lato;
     color:  #444444;
     font-size: 14px;
     font-weight: 400;
-
 }
-
